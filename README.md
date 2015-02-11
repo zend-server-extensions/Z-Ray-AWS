@@ -11,7 +11,8 @@ Copy the `AwsZray` directory to the following location:
 
 Example: (assuming default install directory for Zend Server)
 
-Linux: `/usr/local/zend/var/zray/extensions/AwsZray`
+Linux: `/usr/local/zend/var/zray/extensions/AwsZray` 
+
 Windows: `C:\Program Files (x86)\Zend\ZendServer\data\zray\extensions`
 
 More Info
