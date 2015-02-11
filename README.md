@@ -13,7 +13,7 @@ Example: (assuming default install directory for Zend Server)
 
 * Linux: `/usr/local/zend/var/zray/extensions/AwsZray` 
 
-* Windows: `C:\Program Files (x86)\Zend\ZendServer\data\zray\extensions`
+* Windows: `C:\Program Files (x86)\Zend\ZendServer\data\zray\extensions\AwsZray`
 
 More Info
 ------------
